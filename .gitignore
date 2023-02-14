@@ -10,3 +10,11 @@ cypress/fixtures/users.json
 .vscode
 env
 .DS_Store
+support
+fixtures
+cypress/e2e/Assertions/ExplicitAssertions.cy.js
+cypress/e2e/Assertions/ImplicitAssertions.cy.js
+cypress/e2e/Assertions/Location.cy.js
+cypress/e2e/Assertions/quering.cy.js
+cypress/e2e/Assertions/сypressActions.cy.js
+cypress.config.js
